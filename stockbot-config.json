@@ -1,0 +1,14 @@
+{
+  "botName": "StockSniperBot",
+  "enabled": true,
+  "watchList": ["AAPL", "TSLA", "MSFT", "AMZN"],
+  "tradeThresholdPercent": 1.5,
+  "apiKeys": {
+    "alphaVantage": "your-alpha-vantage-api-key",
+    "finnhub": "your-finnhub-api-key"
+  },
+  "notifications": {
+    "email": "youremail@example.com",
+    "smsNumber": "+1234567890"
+  }
+}
